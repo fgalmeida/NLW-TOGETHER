@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Podcastr" title="Podcastr" src="github/Logo.png" />
+  <img alt="GamePlay" title="GamePlay" src="github/Logo.png" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Podcastr" src="github/Preview.png" width="100%">
+  <img alt="GamePlay" src="github/Preview.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-[Podcastrnext](https://podcastrnext-nlw-5.vercel.app) Organize suas jogatinas facilmente. Crie grupos para jogar seus games favoritos com seus amigos!
+[GamePlay](https://www.figma.com/file/0kv33XYjvOgvKGKHBaiR07/GamePlay---NLW-Together) Organize suas jogatinas facilmente. Crie grupos para jogar seus games favoritos com seus amigos!
 Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentado por **[@Rocketseat](https://github.com/Rocketseat)** durante 20 a 27 de junho de 2021.
 
 ## 🔖 Layout
