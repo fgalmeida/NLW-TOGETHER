@@ -26,14 +26,14 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React](https://reactjs.org)
-- [Next.js](https://nextjs.org/)
+- [React Native](https://reactnative.dev)
+- [Expo](https://expo.io)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Projeto
 
-[Podcastrnext](https://podcastrnext-nlw-5.vercel.app) para trazê-lo ainda mais perto dos melhores podcasts de tecnologia!
-Este é um projeto desenvolvido durante a **[Next Level Week 5](https://nextlevelweek.com/)**, apresentado por **[@Rocketseat](https://github.com/Rocketseat)** durante 19 a 25 de abril de 2021.
+[Podcastrnext](https://podcastrnext-nlw-5.vercel.app) Organize suas jogatinas facilmente. Crie grupos para jogar seus games favoritos com seus amigos
+Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentado por **[@Rocketseat](https://github.com/Rocketseat)** durante 20 a 27 de junho de 2021.
 
 ## 🔖 Layout
 
