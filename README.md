@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-[Podcastrnext](https://podcastrnext-nlw-5.vercel.app) Organize suas jogatinas facilmente. Crie grupos para jogar seus games favoritos com seus amigos
+[Podcastrnext](https://podcastrnext-nlw-5.vercel.app) Organize suas jogatinas facilmente. Crie grupos para jogar seus games favoritos com seus amigos!
 Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentado por **[@Rocketseat](https://github.com/Rocketseat)** durante 20 a 27 de junho de 2021.
 
 ## 🔖 Layout
