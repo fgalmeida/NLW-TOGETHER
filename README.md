@@ -43,8 +43,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 - Clone o repositório
 - Instale as dependências com `yarn`
-- Inicie o servidor com `yarn dev`
-- Inicie o servidor JSON com `yarn server`
+- Inicie com `expo start`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
