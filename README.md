@@ -45,10 +45,6 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 - Instale as dependências com `yarn`
 - Inicie com `expo start`
 
-Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
-
-Agora você pode acessar o servidor JSON [`localhost:3333`](http://localhost:3333) do seu navegador.
-
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
