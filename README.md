@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GamePlay" title="GamePlay" src="github/Logo.png" />
+  <img alt="GamePlay" title="GamePlay" src="github/logo.png" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="GamePlay" src="github/Preview.png" width="100%">
+  <img alt="GamePlay" src="github/cover.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
