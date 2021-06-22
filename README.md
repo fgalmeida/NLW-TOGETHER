@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=fcfc1e&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=991f36&labelColor=0D133D">
 
- <img src="https://img.shields.io/static/v1?label=NLW&message=Together&color=fcfc1e&labelColor=000000" alt="NLW TOGETHER" />
+ <img src="https://img.shields.io/static/v1?label=NLW&message=Together&color=991f36&labelColor=0D133D" alt="NLW TOGETHER" />
 </p>
 
 <br>
