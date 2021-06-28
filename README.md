@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-[GamePlay](https://www.figma.com/file/0kv33XYjvOgvKGKHBaiR07/GamePlay---NLW-Together) Organize suas jogatinas facilmente. Crie grupos para jogar seus games favoritos com seus amigos!
+**[GamePlay](https://www.figma.com/file/0kv33XYjvOgvKGKHBaiR07/GamePlay---NLW-Together)** Organize suas jogatinas facilmente. Crie grupos para jogar seus games favoritos com seus amigos!
 Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentado por **[@Rocketseat](https://github.com/Rocketseat)** durante 20 a 27 de junho de 2021.
 
 ## 🔖 Layout
